@@ -1,5 +1,5 @@
 # enefail
-<b>author:</b> selwyn-lloyd mcpherson (<a href='mailto:selwyn.mcpherson@gmail.com'>selwynlloyd.mcpherson@gmail.com</a>)
+<b>author:</b> selwyn-lloyd mcpherson (<a href='mailto:selwyn.mcpherson@gmail.com'>selwynlloyd.mcpherson@gmail.com</a>)  
 <b>python version:</b> 3.5.0 ('cause it's new and fancy!)
 
 ## Aim
