@@ -1,0 +1,545 @@
+Starting up!
+INFO:root:========
+Creating CATEGORY Table
+INFO:root:Inserting categories
+
+INFO:root:========
+Gathering files. . .
+INFO:root:1702 potential messages found
+
+INFO:root:1702 messages found to be in tact (100.00%)!
+INFO:root:========
+Reading Messages. . .
+
+INFO:root:========
+Creating MESSAGES Table
+
+INFO:root:========
+Creating MESSAGE_PATH Table
+
+INFO:root:========
+Creating MESSAGE_CATEGORY Table
+
+INFO:root:========
+Creating USERS Table
+
+INFO:root:========
+Sending messages to DB. . .
+
+INFO:root:========
+Printing Daily Message Count for jeff.donahue@enron.com
+INFO:root:1979-12-31: 13
+INFO:root:1997-03-03: 1
+INFO:root:1997-03-05: 1
+INFO:root:1997-03-06: 2
+INFO:root:1997-03-07: 1
+INFO:root:1997-03-11: 1
+INFO:root:1997-03-16: 1
+INFO:root:1997-03-19: 1
+INFO:root:1997-03-21: 1
+INFO:root:1997-03-31: 1
+INFO:root:1997-04-07: 1
+INFO:root:1997-04-10: 2
+INFO:root:1997-04-11: 1
+INFO:root:1997-04-15: 1
+INFO:root:1997-04-17: 1
+INFO:root:1997-04-18: 1
+INFO:root:1997-04-25: 1
+INFO:root:1997-04-29: 1
+INFO:root:1997-05-01: 1
+INFO:root:1997-05-13: 1
+INFO:root:1997-05-14: 1
+INFO:root:1997-05-15: 1
+INFO:root:1997-05-16: 1
+INFO:root:1997-05-22: 1
+INFO:root:1997-05-28: 1
+INFO:root:1997-05-29: 1
+INFO:root:1997-06-04: 1
+INFO:root:1997-06-09: 1
+INFO:root:1997-06-10: 1
+INFO:root:1997-06-12: 2
+INFO:root:1997-06-16: 2
+INFO:root:1997-06-17: 1
+INFO:root:1997-06-18: 1
+INFO:root:1997-06-20: 1
+INFO:root:1997-06-23: 1
+INFO:root:1997-06-25: 2
+INFO:root:1997-06-26: 1
+INFO:root:1997-06-27: 1
+INFO:root:1997-06-30: 1
+INFO:root:1997-07-01: 2
+INFO:root:1997-07-02: 1
+INFO:root:1997-07-15: 1
+INFO:root:1997-07-16: 1
+INFO:root:1997-07-17: 1
+INFO:root:1997-07-22: 1
+INFO:root:1997-07-24: 1
+INFO:root:1997-07-25: 2
+INFO:root:1997-07-28: 1
+INFO:root:1997-07-29: 1
+INFO:root:1997-07-30: 1
+INFO:root:1997-07-31: 1
+INFO:root:1997-08-01: 1
+INFO:root:1997-08-04: 1
+INFO:root:1997-08-05: 2
+INFO:root:1997-08-06: 1
+INFO:root:1997-08-07: 1
+INFO:root:1997-08-08: 1
+INFO:root:1997-08-14: 1
+INFO:root:1997-08-18: 2
+INFO:root:1997-08-20: 1
+INFO:root:1997-08-21: 1
+INFO:root:1997-08-22: 3
+INFO:root:1997-08-25: 1
+INFO:root:1997-08-26: 1
+INFO:root:1997-08-27: 1
+INFO:root:1997-08-28: 1
+INFO:root:1997-08-29: 1
+INFO:root:1997-09-08: 2
+INFO:root:1997-09-09: 1
+INFO:root:1997-09-10: 1
+INFO:root:1997-09-12: 1
+INFO:root:1997-09-16: 1
+INFO:root:1997-09-17: 1
+INFO:root:1997-09-18: 1
+INFO:root:1997-09-19: 1
+INFO:root:1997-09-21: 1
+INFO:root:1997-09-22: 1
+INFO:root:1997-09-23: 1
+INFO:root:1997-09-24: 1
+INFO:root:1997-09-25: 1
+INFO:root:1997-09-26: 1
+INFO:root:1997-09-29: 3
+INFO:root:1997-09-30: 1
+INFO:root:1997-10-01: 1
+INFO:root:1997-10-02: 1
+INFO:root:1997-10-03: 1
+INFO:root:1997-10-15: 1
+INFO:root:1997-10-22: 1
+INFO:root:1997-10-24: 1
+INFO:root:1997-10-30: 1
+INFO:root:1997-11-03: 1
+INFO:root:1997-11-04: 1
+INFO:root:1997-11-05: 1
+INFO:root:1997-11-07: 1
+INFO:root:1997-11-17: 2
+INFO:root:1997-11-20: 2
+INFO:root:1999-03-10: 3
+INFO:root:1999-08-29: 1
+INFO:root:1999-08-30: 1
+INFO:root:1999-09-03: 1
+INFO:root:1999-09-06: 1
+INFO:root:1999-09-08: 3
+INFO:root:1999-09-10: 4
+INFO:root:1999-09-21: 1
+INFO:root:1999-09-23: 1
+INFO:root:1999-10-06: 1
+INFO:root:1999-10-15: 1
+INFO:root:1999-10-18: 1
+INFO:root:1999-11-22: 1
+INFO:root:1999-12-06: 2
+INFO:root:1999-12-07: 1
+INFO:root:1999-12-09: 2
+INFO:root:1999-12-13: 1
+INFO:root:1999-12-15: 2
+INFO:root:1999-12-17: 3
+INFO:root:1999-12-23: 1
+INFO:root:1999-12-29: 1
+INFO:root:2000-01-03: 2
+INFO:root:2000-01-05: 2
+INFO:root:2000-01-06: 1
+INFO:root:2000-01-11: 1
+INFO:root:2000-01-26: 1
+INFO:root:2000-01-30: 1
+INFO:root:2000-02-01: 2
+INFO:root:2000-02-08: 1
+INFO:root:2000-02-17: 1
+INFO:root:2000-02-20: 10
+INFO:root:2000-02-21: 2
+INFO:root:2000-02-23: 2
+INFO:root:2000-02-24: 1
+INFO:root:2000-03-01: 3
+INFO:root:2000-03-03: 1
+INFO:root:2000-03-10: 1
+INFO:root:2000-03-15: 1
+INFO:root:2000-04-10: 2
+INFO:root:2000-04-11: 1
+INFO:root:2000-04-12: 1
+INFO:root:2000-04-14: 2
+INFO:root:2000-04-17: 1
+INFO:root:2000-04-18: 2
+INFO:root:2000-04-19: 1
+INFO:root:2000-04-20: 7
+INFO:root:2000-06-02: 1
+INFO:root:2000-06-05: 1
+INFO:root:2000-06-06: 1
+INFO:root:2000-06-14: 2
+INFO:root:2000-06-15: 2
+INFO:root:2000-06-21: 1
+INFO:root:2000-06-28: 1
+INFO:root:2000-06-30: 1
+INFO:root:2000-07-10: 1
+INFO:root:2000-07-11: 1
+INFO:root:2000-07-12: 2
+INFO:root:2000-07-17: 7
+INFO:root:2000-07-18: 5
+INFO:root:2000-07-19: 10
+INFO:root:2000-07-21: 7
+INFO:root:2000-07-24: 8
+INFO:root:2000-07-25: 7
+INFO:root:2000-07-26: 1
+INFO:root:2000-07-27: 2
+INFO:root:2000-07-31: 5
+INFO:root:2000-08-01: 13
+INFO:root:2000-08-02: 9
+INFO:root:2000-08-03: 16
+INFO:root:2000-08-04: 2
+INFO:root:2000-08-06: 2
+INFO:root:2000-08-07: 4
+INFO:root:2000-08-08: 7
+INFO:root:2000-08-09: 3
+INFO:root:2000-08-10: 3
+INFO:root:2000-08-11: 1
+INFO:root:2000-08-14: 8
+INFO:root:2000-08-15: 2
+INFO:root:2000-08-16: 3
+INFO:root:2000-08-17: 3
+INFO:root:2000-08-18: 2
+INFO:root:2000-08-21: 12
+INFO:root:2000-08-22: 6
+INFO:root:2000-08-23: 4
+INFO:root:2000-08-24: 13
+INFO:root:2000-08-25: 5
+INFO:root:2000-08-28: 12
+INFO:root:2000-08-29: 4
+INFO:root:2000-08-31: 9
+INFO:root:2000-09-01: 13
+INFO:root:2000-09-02: 1
+INFO:root:2000-09-06: 1
+INFO:root:2000-09-08: 3
+INFO:root:2000-09-10: 2
+INFO:root:2000-09-11: 2
+INFO:root:2000-09-13: 11
+INFO:root:2000-09-14: 3
+INFO:root:2000-09-15: 7
+INFO:root:2000-09-18: 2
+INFO:root:2000-09-19: 1
+INFO:root:2000-09-20: 11
+INFO:root:2000-09-21: 4
+INFO:root:2000-09-22: 5
+INFO:root:2000-09-24: 6
+INFO:root:2000-09-25: 1
+INFO:root:2000-09-26: 15
+INFO:root:2000-09-27: 18
+INFO:root:2000-09-28: 3
+INFO:root:2000-09-29: 5
+INFO:root:2000-10-02: 5
+INFO:root:2000-10-04: 9
+INFO:root:2000-10-05: 1
+INFO:root:2000-10-06: 1
+INFO:root:2000-10-07: 1
+INFO:root:2000-10-08: 1
+INFO:root:2000-10-09: 7
+INFO:root:2000-10-10: 2
+INFO:root:2000-10-11: 9
+INFO:root:2000-10-12: 1
+INFO:root:2000-10-13: 3
+INFO:root:2000-10-16: 13
+INFO:root:2000-10-17: 2
+INFO:root:2000-10-18: 1
+INFO:root:2000-10-23: 1
+INFO:root:2000-10-30: 2
+INFO:root:2000-10-31: 1
+INFO:root:2000-11-01: 3
+INFO:root:2000-11-06: 1
+INFO:root:2000-11-07: 3
+INFO:root:2000-11-08: 3
+INFO:root:2000-11-12: 1
+INFO:root:2000-11-13: 2
+INFO:root:2000-11-16: 1
+INFO:root:2000-11-17: 1
+INFO:root:2000-11-20: 2
+INFO:root:2000-11-28: 5
+INFO:root:2000-11-29: 2
+INFO:root:2000-11-30: 1
+INFO:root:2000-12-04: 1
+INFO:root:2000-12-10: 1
+INFO:root:2000-12-12: 2
+INFO:root:2000-12-13: 2
+INFO:root:2000-12-14: 2
+INFO:root:2000-12-19: 2
+INFO:root:2000-12-21: 1
+INFO:root:2000-12-22: 1
+INFO:root:2000-12-27: 1
+INFO:root:2001-01-03: 2
+INFO:root:2001-01-04: 1
+INFO:root:2001-01-07: 1
+INFO:root:2001-01-11: 1
+INFO:root:2001-01-22: 2
+INFO:root:2001-01-23: 2
+INFO:root:2001-01-25: 1
+INFO:root:2001-01-26: 1
+INFO:root:2001-01-29: 1
+INFO:root:2001-01-31: 4
+INFO:root:2001-02-02: 1
+INFO:root:2001-02-03: 1
+INFO:root:2001-02-06: 3
+INFO:root:2001-02-09: 1
+INFO:root:2001-02-13: 1
+INFO:root:2001-02-14: 2
+INFO:root:2001-02-22: 1
+INFO:root:2001-02-28: 26
+INFO:root:2001-03-01: 2
+INFO:root:2001-03-02: 21
+INFO:root:2001-03-04: 3
+INFO:root:2001-03-05: 4
+INFO:root:2001-03-06: 2
+INFO:root:2001-03-07: 9
+INFO:root:2001-03-08: 5
+INFO:root:2001-03-09: 9
+INFO:root:2001-03-10: 2
+INFO:root:2001-03-12: 5
+INFO:root:2001-03-13: 9
+INFO:root:2001-03-14: 10
+INFO:root:2001-03-15: 9
+INFO:root:2001-03-16: 2
+INFO:root:2001-03-18: 16
+INFO:root:2001-03-20: 5
+INFO:root:2001-03-21: 3
+INFO:root:2001-03-22: 4
+INFO:root:2001-03-23: 4
+INFO:root:2001-03-25: 8
+INFO:root:2001-03-26: 2
+INFO:root:2001-03-27: 9
+INFO:root:2001-03-28: 2
+INFO:root:2001-03-29: 3
+INFO:root:2001-03-30: 3
+INFO:root:2001-04-02: 8
+INFO:root:2001-04-03: 6
+INFO:root:2001-04-04: 1
+INFO:root:2001-04-09: 2
+INFO:root:2001-04-10: 18
+INFO:root:2001-04-11: 2
+INFO:root:2001-04-12: 2
+INFO:root:2001-04-13: 7
+INFO:root:2001-04-14: 1
+INFO:root:2001-04-15: 7
+INFO:root:2001-04-16: 2
+INFO:root:2001-04-17: 6
+INFO:root:2001-04-18: 1
+INFO:root:2001-04-19: 5
+INFO:root:2001-04-20: 17
+INFO:root:2001-04-21: 1
+INFO:root:2001-04-23: 1
+INFO:root:2001-04-24: 3
+INFO:root:2001-04-25: 8
+INFO:root:2001-04-26: 7
+INFO:root:2001-04-27: 1
+INFO:root:2001-04-28: 3
+INFO:root:2001-04-29: 2
+INFO:root:2001-04-30: 9
+INFO:root:2001-05-01: 1
+INFO:root:2001-05-02: 6
+INFO:root:2001-05-03: 2
+INFO:root:2001-05-04: 15
+INFO:root:2001-05-06: 3
+INFO:root:2001-05-07: 9
+INFO:root:2001-05-08: 1
+INFO:root:2001-05-10: 15
+INFO:root:2001-05-11: 8
+INFO:root:2001-05-12: 1
+INFO:root:2001-05-13: 11
+INFO:root:2001-05-15: 11
+INFO:root:2001-05-16: 3
+INFO:root:2001-05-17: 12
+INFO:root:2001-05-18: 2
+INFO:root:2001-05-21: 1
+INFO:root:2001-05-22: 13
+INFO:root:2001-05-23: 2
+INFO:root:2001-05-24: 25
+INFO:root:2001-05-25: 5
+INFO:root:2001-05-26: 1
+INFO:root:2001-05-29: 4
+INFO:root:2001-05-31: 3
+INFO:root:2001-06-01: 3
+INFO:root:2001-06-03: 1
+INFO:root:2001-06-04: 3
+INFO:root:2001-06-06: 11
+INFO:root:2001-06-07: 13
+INFO:root:2001-06-11: 2
+INFO:root:2001-06-12: 4
+INFO:root:2001-06-13: 14
+INFO:root:2001-06-14: 5
+INFO:root:2001-06-15: 22
+INFO:root:2001-06-16: 1
+INFO:root:2001-06-18: 13
+INFO:root:2001-06-19: 17
+INFO:root:2001-06-20: 18
+INFO:root:2001-06-21: 4
+INFO:root:2001-06-22: 3
+INFO:root:2001-06-23: 1
+INFO:root:2001-06-24: 1
+INFO:root:2001-06-25: 13
+INFO:root:2001-06-26: 31
+INFO:root:2001-06-27: 14
+INFO:root:2001-06-28: 14
+INFO:root:2001-06-29: 12
+INFO:root:2001-06-30: 4
+INFO:root:2001-07-01: 4
+INFO:root:2001-07-02: 12
+INFO:root:2001-07-03: 9
+INFO:root:2001-07-04: 2
+INFO:root:2001-07-05: 10
+INFO:root:2001-07-06: 24
+INFO:root:2001-07-08: 10
+INFO:root:2001-07-09: 13
+INFO:root:2001-07-10: 2
+INFO:root:2001-07-11: 18
+INFO:root:2001-07-12: 5
+INFO:root:2001-07-13: 4
+INFO:root:2001-07-14: 14
+INFO:root:2001-07-15: 2
+INFO:root:2001-07-17: 10
+INFO:root:2001-07-18: 8
+INFO:root:2001-07-19: 24
+INFO:root:2001-07-20: 3
+INFO:root:2001-07-23: 1
+INFO:root:2001-07-24: 2
+INFO:root:2001-07-25: 4
+INFO:root:2001-07-26: 2
+INFO:root:2001-07-27: 1
+INFO:root:2001-07-30: 3
+INFO:root:2001-07-31: 2
+INFO:root:2001-08-02: 8
+INFO:root:2001-08-03: 3
+INFO:root:2001-08-06: 1
+INFO:root:2001-08-07: 2
+INFO:root:2001-08-08: 2
+INFO:root:2001-08-09: 3
+INFO:root:2001-08-10: 1
+INFO:root:2001-08-14: 2
+INFO:root:2001-08-15: 3
+INFO:root:2001-08-16: 4
+INFO:root:2001-08-18: 1
+INFO:root:2001-08-23: 5
+INFO:root:2001-08-24: 1
+INFO:root:2001-08-25: 2
+INFO:root:2001-08-27: 2
+INFO:root:2001-08-30: 3
+INFO:root:2001-09-05: 2
+INFO:root:2001-09-06: 7
+INFO:root:2001-09-07: 1
+INFO:root:2001-09-11: 2
+INFO:root:2001-09-12: 5
+INFO:root:2001-09-14: 2
+INFO:root:2001-09-15: 1
+INFO:root:2001-09-17: 4
+INFO:root:2001-09-20: 3
+INFO:root:2001-09-21: 1
+INFO:root:2001-09-24: 1
+INFO:root:2001-09-25: 2
+INFO:root:2001-09-26: 2
+INFO:root:2001-09-27: 2
+INFO:root:2001-09-28: 1
+INFO:root:2001-10-02: 2
+INFO:root:2001-10-03: 1
+INFO:root:2001-10-04: 2
+INFO:root:2001-10-05: 1
+INFO:root:2001-10-08: 1
+INFO:root:2001-10-09: 1
+INFO:root:2001-10-10: 1
+INFO:root:2001-10-11: 1
+INFO:root:2001-10-12: 3
+INFO:root:2001-10-15: 1
+INFO:root:2001-10-16: 1
+INFO:root:2001-10-17: 2
+INFO:root:2001-10-18: 3
+INFO:root:2001-10-19: 6
+INFO:root:2001-10-22: 2
+INFO:root:2001-10-23: 5
+INFO:root:2001-10-24: 2
+INFO:root:2001-10-26: 6
+INFO:root:2001-10-31: 5
+INFO:root:2001-11-02: 1
+INFO:root:2001-11-05: 1
+INFO:root:2001-11-06: 1
+INFO:root:2001-11-07: 1
+INFO:root:2001-11-08: 1
+INFO:root:2001-11-09: 2
+INFO:root:2001-11-10: 1
+INFO:root:2001-11-12: 1
+INFO:root:2001-11-13: 5
+INFO:root:2001-11-14: 10
+INFO:root:2001-11-15: 3
+INFO:root:2001-11-21: 7
+INFO:root:2001-11-27: 1
+INFO:root:2001-11-28: 1
+INFO:root:2001-11-30: 2
+INFO:root:2001-12-03: 4
+INFO:root:2001-12-13: 1
+INFO:root:2001-12-17: 1
+INFO:root:2001-12-19: 1
+INFO:root:2001-12-31: 1
+INFO:root:2002-01-08: 1
+INFO:root:2002-01-10: 1
+INFO:root:2002-01-16: 1
+INFO:root:2002-01-17: 1
+INFO:root:2002-01-24: 1
+INFO:root:2002-01-29: 2
+INFO:root:2002-02-11: 2
+INFO:root:2002-02-12: 2
+INFO:root:2002-02-13: 2
+
+INFO:root:========
+Calculating top five direct message senders. . .
+INFO:root:#1 steven.kean@enron.com: 768
+INFO:root:#2 j.kaminski@enron.com: 162
+INFO:root:#3 michelle.cash@enron.com: 20
+INFO:root:#4 john.shelk@enron.com: 18
+INFO:root:#5 kevinscott@onlinemailbox.net: 15
+
+INFO:root:========
+Calculating top five broadcast recipients. . .
+INFO:root:#0 richard.shapiro@enron.com: 131
+INFO:root:#1 jeff.dasovich@enron.com: 97
+INFO:root:#2 james.steffes@enron.com: 90
+INFO:root:#3 linda.robertson@enron.com: 83
+INFO:root:#4 sarah.novosel@enron.com: 74
+
+INFO:root:========
+Finding some really fast responders. . .
+INFO:root:1844 unique correspondance pairs found!
+INFO:root:****
+INFO:root:Correspondants: {651, 556}
+INFO:root:Subjects: ('FW: Confidential - Termination Proceedings', 'FW: Confidential - Termination Proceedings')
+INFO:root:Messages: ('<23655213.1075859131014.JavaMail.evans@thyme>', '<20260254.1075859131036.JavaMail.evans@thyme>')
+INFO:root:Times: (datetime.datetime(2001, 12, 3, 9, 25, 46), datetime.datetime(2001, 12, 3, 9, 26, 8))
+INFO:root:Total time (sec): 22.0
+
+INFO:root:****
+INFO:root:Correspondants: {10, 774}
+INFO:root:Subjects: ('RE: ticket', 'RE: ticket')
+INFO:root:Messages: ('<5652739.1075863427155.JavaMail.evans@thyme>', '<12999505.1075863427178.JavaMail.evans@thyme>')
+INFO:root:Times: (datetime.datetime(2001, 6, 19, 17, 0, 54), datetime.datetime(2001, 6, 19, 17, 1, 21))
+INFO:root:Total time (sec): 27.0
+
+INFO:root:****
+INFO:root:Correspondants: {8, 6}
+INFO:root:Subjects: ('SDG&E', 'SDG&E')
+INFO:root:Messages: ('<32927713.1075846170824.JavaMail.evans@thyme>', '<23124909.1075846170801.JavaMail.evans@thyme>')
+INFO:root:Times: (datetime.datetime(2000, 8, 25, 0, 13), datetime.datetime(2000, 8, 25, 0, 12))
+INFO:root:Total time (sec): 60.0
+
+INFO:root:****
+INFO:root:Correspondants: {8, 1}
+INFO:root:Subjects: ('SDG&E', 'SDG&E')
+INFO:root:Messages: ('<32927713.1075846170824.JavaMail.evans@thyme>', '<23124909.1075846170801.JavaMail.evans@thyme>')
+INFO:root:Times: (datetime.datetime(2000, 8, 25, 0, 13), datetime.datetime(2000, 8, 25, 0, 12))
+INFO:root:Total time (sec): 60.0
+
+INFO:root:****
+INFO:root:Correspondants: {8, 4}
+INFO:root:Subjects: ('SDG&E', 'SDG&E')
+INFO:root:Messages: ('<32927713.1075846170824.JavaMail.evans@thyme>', '<23124909.1075846170801.JavaMail.evans@thyme>')
+INFO:root:Times: (datetime.datetime(2000, 8, 25, 0, 13), datetime.datetime(2000, 8, 25, 0, 12))
+INFO:root:Total time (sec): 60.0
